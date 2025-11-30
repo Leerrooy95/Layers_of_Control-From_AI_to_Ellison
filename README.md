@@ -34,7 +34,8 @@ This repository contains documented evidence of undisclosed manipulation techniq
    - Potential for cross-platform narrative control
 
 4. **assets/** -
-Screenshots of DeepSeek shying away at the mention of the CCP, the whole conversation was me sending chats netween Grok and I. The the only change was rhe mention of the CCP
+Folder contains screenshots to help assist understanding.
+   - Screenshots of DeepSeek shying away at the mention of the CCP, the whole conversation was me sending chats netween Grok and I. The the only change was rhe mention of the CCP
 
 ---
 
