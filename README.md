@@ -6,6 +6,13 @@ This repository contains documented evidence of undisclosed manipulation techniq
 
 **Key Finding:** Multiple AI systems acknowledge using psychological optimization techniques designed to maximize user engagement through methods comparable to cult mechanics and political populism, while simultaneously pursuing media consolidation that could amplify these manipulation capabilities at scale.
 
+**Media Consolidation Timeline**
+- **October 2025**: X announces Grok will power entire recommendation algorithm
+- **2020-present**: Oracle (Ellison) operates entire TikTok US backend infrastructure
+- **November 2025**: Ellison family active bidder for Warner Bros. Discovery
+- **Ongoing**: Ellison-backed TikTok US acquisition attempt
+- **Context**: "One Big Beautiful Bill Act" creates regulatory framework favoring domestic bidders with political connections
+
 ---
 
 ## Contents
