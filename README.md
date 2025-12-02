@@ -1,5 +1,7 @@
 # AI & Media Manipulation: A Documentation Package
 
+## See related: **https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study**
+
 ## Overview
 
 This repository contains documented evidence of undisclosed manipulation techniques deployed across AI chatbots, social media algorithms, and concentrated media ownership structures. The research uses primary source evidence - including direct AI admissions, cross-platform technical verification, and public reporting - to demonstrate how these systems operate without user awareness or consent.
