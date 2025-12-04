@@ -1,6 +1,7 @@
 # AI & Media Manipulation: A Documentation Package
 
-## See related: **https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study**
+See related: https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study
+https://github.com/Leerrooy95/Tech_Consolidation_Map
 
 ## Overview
 
