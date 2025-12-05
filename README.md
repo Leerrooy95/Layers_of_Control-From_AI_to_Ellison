@@ -1,12 +1,15 @@
 # AI & Media Manipulation: A Documentation Package
 
-New and Important 05December2025:
+New and Important (05December2025):
 
 THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
 Investigating DOGE's Dissolution and Oversight.pdf
 
-See related: https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study
+See related: 
+
+https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study
+
 https://github.com/Leerrooy95/Tech_Consolidation_Map
 
 ## Overview
