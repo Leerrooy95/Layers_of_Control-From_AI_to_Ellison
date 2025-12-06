@@ -1,4 +1,4 @@
-# AI & Media Manipulation: A Documentation Package
+**Layers of Control**
 
 New and Important (05December2025):
 
