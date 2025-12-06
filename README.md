@@ -2,6 +2,9 @@
 
 New and Important (06December2025):
 
+**https://github.com/Leerrooy95/Global-Layers-of-Control**
+> Global research of related to this topic.
+
 THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
 Investigating DOGE's Dissolution and Oversight.pdf
