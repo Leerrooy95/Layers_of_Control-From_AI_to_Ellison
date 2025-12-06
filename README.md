@@ -1,6 +1,6 @@
 ### Layers of Control
 
-New and Important (05December2025):
+New and Important (06December2025):
 
 THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
@@ -10,6 +10,9 @@ Mapping Asymmetric Nexus Power Layers.pdf
 
 **Asymmetric Control Stack.pdf**
 > This full document details the structure of "Asymmetric Sovereignty," the operational function of the "IL6 Ghost Architecture," and the index of capture provided by "Minor's confidential 450."
+
+## Auditing Executive Impunity Protocol.pdf
+>The deeper political connection.
 
 Visual.jpg
 >Clear visual of the power structure.
