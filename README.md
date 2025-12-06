@@ -20,7 +20,7 @@ Mapping Asymmetric Nexus Power Layers.pdf
 
 ---
 
-Visual.jpg
+https://github.com/Leerrooy95/Layers_of_Control-From_AI_to_Ellison/blob/601e68039e0ccafc83163f0536044de28566cf77/Visual.jpg
 
 
 ## Overview
