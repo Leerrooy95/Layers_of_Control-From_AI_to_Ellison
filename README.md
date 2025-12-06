@@ -11,7 +11,7 @@ Mapping Asymmetric Nexus Power Layers.pdf
 **Asymmetric Control Stack.pdf**
 > This full document details the structure of "Asymmetric Sovereignty," the operational function of the "IL6 Ghost Architecture," and the index of capture provided by "Minor's confidential 450."
 
-Visual.png
+Visual.jpg
 >Clear visual of the power structure.
 
 > [!NOTE]
