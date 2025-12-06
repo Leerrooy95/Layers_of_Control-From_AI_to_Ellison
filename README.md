@@ -11,6 +11,9 @@ Mapping Asymmetric Nexus Power Layers.pdf
 **Asymmetric Control Stack.pdf**
 > This full document details the structure of "Asymmetric Sovereignty," the operational function of the "IL6 Ghost Architecture," and the index of capture provided by "Minor's confidential 450."
 
+Visual.png
+>Clear visual of the power structure.
+
 > [!NOTE]
 > **📂 Asymmetric Nexus: Sector Deep Dive**
 > This repository provides the forensic evidence for **Layer 3 (AI Infrastructure)** and **Layer 8 (Media Hegemony)** of the larger control grid.
@@ -19,9 +22,6 @@ Mapping Asymmetric Nexus Power Layers.pdf
 > * **Source Map:** This data connects to the [Master Tech Consolidation Map](https://github.com/Leerrooy95/Tech_Consolidation_Map).
 
 ---
-
-https://github.com/Leerrooy95/Layers_of_Control-From_AI_to_Ellison/blob/601e68039e0ccafc83163f0536044de28566cf77/Visual.jpg
-
 
 ## Overview
 
