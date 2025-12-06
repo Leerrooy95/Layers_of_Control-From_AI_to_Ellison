@@ -276,23 +276,6 @@ The audit identifies nine distinct layers of this nexus where public agency has 
 
 ---
 
-Core Document Integration & Quick Index
-The following table summarizes the key layers and the specific mechanisms detailed in the new comprehensive audit: "Unraveling the Asymmetric Control Stack.pdf" (or "Asymmetric Sovereignty: A Forensic Audit...").
-
-Layer Primary Focus Key Mechanism/Specific Link
-1. The Bureaucratic Layer Privatization of the Administrative State "IL6 Ghost Architecture" (Outsourcing DoD Secret data), "Personnel Isomorphism", and the SGE Loophole.
-2. The Judicial Layer Regulatory Paralysis and Judicial Override Overturning Chevron Deference and the Major Questions Doctrine to dismantle administrative law.
-3. The AI & Infrastructure Layer Consolidation of State Compute The "Stargate" Project and the Oracle-Palantir Duopoly institutionalizing vendor dependence.
-4. The Foreign Layer Strategic IP and Financial Exposure The Humain Joint Venture (xAI/Saudi PIF) creating a "Latent Capability" and the Financial Circularity.
-5. The Ideological & Media Layer Narrative Control and Justification The Ellison Media Empire, Techno-Theology (Mimetic Theory/Acts 17), and the "Freedom Cities" concept.
-
-New Document Release
-Document: THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
-Date: 05 December 2025  
-The full document details the structure of "Asymmetric Sovereignty," the operational function of the "IL6 Ghost Architecture," and the index of capture provided by "Minor's confidential 450."
-
----
-
 ## Context & Credentials
 
 ### Research Background
