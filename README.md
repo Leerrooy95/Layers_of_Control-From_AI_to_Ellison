@@ -1,3 +1,10 @@
+> [!NOTE]
+> **📂 Asymmetric Nexus: Sector Deep Dive**
+> This repository provides the forensic evidence for **Layer 3 (AI Infrastructure)** and **Layer 8 (Media Hegemony)** of the larger control grid.
+>
+> * **Focus:** The Oracle-Palantir Duopoly, the "Stargate" Project, and the Ellison-Musk media axis.
+> * **Source Map:** This data connects to the [Master Tech Consolidation Map](https://github.com/Leerrooy95/Tech_Consolidation_Map).
+
 **Layers of Control**
 
 New and Important (05December2025):
@@ -7,12 +14,6 @@ THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 Investigating DOGE's Dissolution and Oversight.pdf
 
 **Mapping Asymmetric Nexus Power Layers.pdf**
-
-See related: 
-
-https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study
-
-https://github.com/Leerrooy95/Tech_Consolidation_Map
 
 ## Overview
 
