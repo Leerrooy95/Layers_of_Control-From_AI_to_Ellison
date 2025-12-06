@@ -9,6 +9,7 @@ Investigating DOGE's Dissolution and Oversight.pdf
 Mapping Asymmetric Nexus Power Layers.pdf
 
 **Asymmetric Control Stack.pdf**
+> This full document details the structure of "Asymmetric Sovereignty," the operational function of the "IL6 Ghost Architecture," and the index of capture provided by "Minor's confidential 450."
 
 > [!NOTE]
 > **📂 Asymmetric Nexus: Sector Deep Dive**
