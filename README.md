@@ -1,6 +1,6 @@
 ### Layers of Control
 
-New and Important (06December2025):
+New and Important (07December2025):
 
 **https://github.com/Leerrooy95/Global-Layers-of-Control**
 > Global research of related to this topic.
@@ -18,7 +18,7 @@ Mapping Asymmetric Nexus Power Layers.pdf
 >The deeper political connection.
 
 Visual.jpg
->Clear visual of the power structure.
+>Clear visual of the power structure
 
 > [!NOTE]
 > **📂 Asymmetric Nexus: Sector Deep Dive**
@@ -26,6 +26,13 @@ Visual.jpg
 >
 > * **Focus:** The Oracle-Palantir Duopoly, the "Stargate" Project, and the Ellison-Musk media axis.
 > * **Source Map:** This data connects to the [Master Tech Consolidation Map](https://github.com/Leerrooy95/Tech_Consolidation_Map).
+
+## **🚨 Major Update: The Sovereign Liquidity Trap (v3)**
+Date: December 2025
+Status: Critical / Systemic Failure Identified
+Executive Summary
+This update introduces Regulatory Intelligence into the master dataset, revealing a structural compromise of the US Defense Industrial Base. While the "System Log" shows China executing a sovereign, closed-loop military strategy, the new data confirms that the US defense ecosystem has been financially captured by a foreign sovereign capital bloc (Saudi Arabia/UAE).
+Key Finding: The US military's manufacturing, cloud, and capital layers are now structurally dependent on foreign sovereign wealth, exploited through the 31 CFR § 800.307 regulatory loophole.
 
 ---
 
@@ -327,7 +334,7 @@ This documentation package is provided for:
 
 ## Version History
 
-- **v2.0** (December 6, 2025) - Initial documentation package
+- **v3.0** (December 7, 2025) - Initial documentation package
   - Grok AI interaction transcript
   - DeepSeek verification analysis
   - Cross-platform algorithmic research
@@ -336,5 +343,5 @@ This documentation package is provided for:
 
 ---
 
-**Last Updated:** December 6, 2025  
+**Last Updated:** December 7, 2025  
 **Status:** Active Investigation - Documentation Package Complete
