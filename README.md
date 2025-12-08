@@ -2,6 +2,9 @@
 
 New and Important (07December2025):
 
+**Washing Post vs Washington Times**
+ > A side-by-side comparison of searches of the same 4 individuals across both The Wasshington Post and The Washington Times from 2015-2025 timelines were put together for Musk, Thiel, Ellison & son, and Trump. The result was like reading two different realities going along the same timeline. All individual CSVs and compiled CSV are posted in the *Washing Post vs Washington Times* folder.
+
 **https://github.com/Leerrooy95/Global-Layers-of-Control**
 > Global research of related to this topic.
 
